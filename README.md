@@ -19,18 +19,18 @@ It uses asynchronous requests (aiohttp + asyncio) to fetch program pages concurr
 
 # 🛠️ Tech Stack
 
-Python 3.8+
+- Python 3.8+
 
-aiohttp
+- aiohttp
  → asynchronous HTTP requests
 
-asyncio
+- asyncio
  → task concurrency
 
-requests
+- requests
  → initial HTML fetch
 
-BeautifulSoup (bs4)
+- BeautifulSoup (bs4)
  → HTML parsing
 
 # 📦 Installation
