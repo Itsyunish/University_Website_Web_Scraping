@@ -32,3 +32,10 @@ requests
 
 BeautifulSoup (bs4)
  → HTML parsing
+
+# 📦 Installation
+
+Clone the repository and install dependencies:
+git clone https://github.com/itsyunish/graduate-programs-scraper.git
+cd graduate-programs-scraper
+
