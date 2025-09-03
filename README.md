@@ -1,11 +1,11 @@
-🎓 Graduate Programs Scraper
+# 🎓 Graduate Programs Scraper
 
 This project scrapes graduate program information from Midwestern State University’s Graduate School
 .
 
 It uses asynchronous requests (aiohttp + asyncio) to fetch program pages concurrently, and BeautifulSoup to parse program details into a clean structure.
 
-✨ Features
+# ✨ Features
 
 🔗 Extracts all graduate program links from the main degree listing page
 
@@ -17,7 +17,7 @@ It uses asynchronous requests (aiohttp + asyncio) to fetch program pages concurr
 
 ⏱️ Displays total execution time
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python 3.8+
 
