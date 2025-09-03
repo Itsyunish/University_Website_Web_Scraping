@@ -36,7 +36,7 @@ BeautifulSoup (bs4)
 # 📦 Installation
 
 Clone the repository and install dependencies:
-git clone https://github.com/Itsyunish/University_Website_Web_Scraping.git
-cd University_Website_Web_Scraping
-uv sync
+- git clone https://github.com/Itsyunish/University_Website_Web_Scraping.git
+- cd University_Website_Web_Scraping
+- uv sync
 
